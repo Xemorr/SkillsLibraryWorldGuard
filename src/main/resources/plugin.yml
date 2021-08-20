@@ -1,0 +1,7 @@
+name: SuperheroesWorldGuard
+version: ${project.version}
+main: me.xemor.superheroesworldguard.SuperheroesWorldGuard
+api-version: 1.16
+authors: [ Xemor_ ]
+description: Adds a world guard condition
+depend: [WorldGuard, SkillsLibrary2]
